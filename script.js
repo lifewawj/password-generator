@@ -8,8 +8,10 @@ function writePassword() {
   passwordText.value = password;
 }
 
-
-
+function generatePassword() {
+var example = prompt("What's your name?");
+console.log(example)
+}
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
