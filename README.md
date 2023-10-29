@@ -2,7 +2,7 @@
 
 ## Description
 
-For someone that is not well with creating strong passwords. Being able to create a password generator that creates a strong secured password will not only help myself but others that struggle with creating a strong password as well! Which provides better security for myself and others.
+For someone that is not well with creating strong passwords. Being able to create a password generator that creates a strong secured password will not only help myself but others that struggle with creating a strong password as well! Which provides better security for myself and others, especially keeping our personal data safe!
 
 ## Image(s)
 
