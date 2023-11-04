@@ -17,6 +17,8 @@ function writePassword() {
 }
 
 function generatePassword() {
+var newPassword = '';
+
 var passwordLength = prompt("Password Length: \n(must be at least 8 characters and no more than 128 characters)");
 
 if (passwordLength < 8) {
