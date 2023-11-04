@@ -11,7 +11,7 @@ For someone that is not well with creating strong passwords. Being able to creat
 
 ## Link(s)
 
-Deployed Application: https://awjcodes.github.io/password-generator/
+Deployed Application: https://lifewawj.github.io/password-generator/
 
 
 ## Usage
